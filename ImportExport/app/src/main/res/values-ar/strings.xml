@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_">استيراد</string>
+    <string name="no_picker_search_prompt">فشل بدء برنامج اختيار الملفات.\nهل تريد البحث عن الملفات المؤرشفة؟</string>
+    <string name="exported_file_name">اسم الملف المصدّر:</string>
+    <string name="import_success_exit_prompt">نجح الاستيراد.\nهل تريد الخروج؟</string>
+    <string name="export">تصدير</string>
+    <string name="no_storage_permission_prompt">من غير الممكن عرض الأرشيفات المحلية مالم تمنح إذن التخزين.</string>
+    <string name="found_archives">الأرشيفات الموجودة</string>
+    <string name="ie_imported_to">"تم الاستيراد إلى "</string>
+    <string name="ie_no_archives_found">لم يتم العثور على أرشيفات في المسار %s</string>
+    <string name="ie_searching">جار البحث…</string>
+    <string name="ie_sharing_failed">فشل المشاركة:\n</string>
+    <string name="ie_exported_to">"تم التصدير إلى "</string>
+    <string name="ie_share_warning">كن حذراً بخصوص من ستشارك الملف معه!</string>
+    <string name="ie_delete">حذف</string>
+    <string name="ie_replace">استبدال</string>
+    <string name="import_procedure_prompt">ماذا تريد أن تفعل بملفات التطبيق الحالية؟</string>
+    <string name="ie_error">"خطأ: "</string>
+
+    <plurals name="dirs">
+        <item quantity="zero">0 مجلد</item>
+        <item quantity="two">مجلدين</item>
+        <item quantity="few">%d مجلدات</item>
+        <item quantity="many">%d مجلد</item>
+        <item quantity="one">مجلد واحد</item>
+        <item quantity="other">%d مجلد</item>
+    </plurals>
+
+    <plurals name="files">
+        <item quantity="zero">0 ملف</item>
+        <item quantity="two">ملفين</item>
+        <item quantity="few">%d ملفات</item>
+        <item quantity="many">%d ملف</item>
+        <item quantity="one">ملف واحد</item>
+        <item quantity="other">%d ملف</item>
+    </plurals>
+</resources>

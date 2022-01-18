@@ -1,0 +1,30 @@
+<resources>
+    <string name="import_export_glyph">⇅</string>
+    <string name="import_">Import</string>
+    <string name="no_picker_search_prompt">Failed to open the file picker.\nWould you like to search for archives?</string>
+    <string name="exported_file_name">Exported file name:</string>
+    <string name="import_success_exit_prompt">Import was successful.\nExit?</string>
+    <string name="export">Export</string>
+    <string name="no_storage_permission_prompt">Cannot display local archives unless you grant storage permission.</string>
+    <string name="found_archives">Found archives</string>
+    <string name="ie_error">"Error: "</string>
+    <string name="ie_imported_to">\"Imported to \"</string>
+    <string name="ie_no_archives_found">No archives found in %s</string>
+    <string name="ie_searching">Searching…</string>
+    <string name="ie_sharing_failed">Sharing failed:\n</string>
+    <string name="ie_exported_to">\"Exported to \"</string>
+    <string name="ie_share_warning">Be careful as to who you share this file with!</string>
+    <string name="ie_delete">Delete</string>
+    <string name="ie_replace">Replace</string>
+    <string name="import_procedure_prompt">What do you want to do to the current app files?</string>
+
+    <plurals name="dirs">
+        <item quantity="one">1 dir</item>
+        <item quantity="other">%d dirs</item>
+    </plurals>
+
+    <plurals name="files">
+        <item quantity="one">1 file</item>
+        <item quantity="other">%d files</item>
+    </plurals>
+</resources>
